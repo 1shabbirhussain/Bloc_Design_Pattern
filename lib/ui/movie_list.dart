@@ -1,7 +1,6 @@
 
 import 'package:block_design_pattern/models/movieModel.dart';
 import 'package:flutter/material.dart';
-import '../models/movieModel.dart';
 import '../blocs/movies_bloc.dart';
 
 class MovieList extends StatelessWidget {
